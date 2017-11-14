@@ -1,6 +1,6 @@
 # Define display_board that accepts a board and prints
 # out the current state.
-def board
+def display_board (board)
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
@@ -8,6 +8,4 @@ def board
   puts "   |   |   "
 end
 
-def display_board (board)
-  
-end
+
